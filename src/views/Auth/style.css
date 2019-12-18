@@ -1,0 +1,28 @@
+
+ #parent {
+    display: table;
+    width: 100%;
+ }
+ .login-bg-color{
+    /* text-align: center;
+    background-color: blue; */
+    background-color: white;
+    width: 65vh;
+  }
+  .signin-bg{
+   height: 70vh;
+   background-color:blue;
+   padding-top:16%; 
+   text-align:center;
+   color:white 
+  }
+  .button-width{
+     width:20%;
+  }
+  .error {
+   color: '#db2a2a'
+}
+.error-close{
+  display: flex;
+  cursor: pointer;
+}
